@@ -1,0 +1,16 @@
+MINIESPECIFICACION
+
+1. Solicitar cantidad de ventas N.
+2. Crear 5 arreglos del tamaño N: nombres, apellidos, cantidades, precios, totales.
+3. Para cada cliente:
+    - Leer nombre.
+    - Leer apellido.
+    - Leer cantidad de libros.
+    - Leer precio unitario.
+    - Calcular subtotal = cantidad * precio.
+    - Determinar descuento según cantidad.
+    - Guardar el total en el arreglo.
+4. Mostrar los datos registrados.
+5. Calcular el promedio de ventas.
+6. Determinar la venta mayor.
+7. Determinar la venta menor.
